@@ -14,7 +14,6 @@ Olá, meu nome é Gabriel Rodrigo Parasky, tenho 17 anos e moro em Santa Catarin
 ### Contato
 Caso você queira me contatar, aqui estão as formas de conversar comigo:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)](https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=red&link=https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRrlQspWgCdKxpXrQcvpmgGpVsXpPjlbnhwlngVxwfcnJQwRbnCCSSkxdrNkQTNlnxKrLHQ)](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRrlQspWgCdKxpXrQcvpmgGpVsXpPjlbnhwlngVxwfcnJQwRbnCCSSkxdrNkQTNlnxKrLHQ)
 
 Sinta-se à vontade para visualizar meus repositórios no Github, ele é como um Portfólio para mim ^^.
 
@@ -27,6 +26,5 @@ Hello, my name is Gabriel Rodrigo Parasky, I'm 17yo and I live in Santa Catarina
 ### Contact
 If you want to contact me, here were the ways to chat with me:
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)](https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail&logoColor=red&link=https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRrlQspWgCdKxpXrQcvpmgGpVsXpPjlbnhwlngVxwfcnJQwRbnCCSSkxdrNkQTNlnxKrLHQ)](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRrlQspWgCdKxpXrQcvpmgGpVsXpPjlbnhwlngVxwfcnJQwRbnCCSSkxdrNkQTNlnxKrLHQ)
 
 Feel free for viewing my repositories in Github, he is like an Portfolio to me ^^.
