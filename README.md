@@ -1,30 +1,38 @@
-# Hi, I'm Gabriel Rodrigo Parasky! :D
+![](https://komarev.com/ghpvc/?username=grparasky&color=006bed)
 
-<!--
-**GRParasky/grparasky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Sobre mim
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Sistemas da Informação na FAM.
+- 💼 Trabalhando com SQL e Python na FW7.
+- 🌱 Aprendendo mais sobre Java, Javascript e Spring.
 
-## Português
+## Minhas Skills
 
-### Sobre Mim
+**Aplicações e dados**
 
-Olá, meu nome é Gabriel Rodrigo Parasky, tenho 17 anos e moro em Santa Catarina, Brasil. Sou técnico em Informática, formado no Cedup Hermann Hering e, atualmente, estou trabalhando na Ambev Tech (antigamente, HBSIS). Estou registrado como Analista Desenvolvedor 1, porém desempenho funções de Analista e Engenheiro de Dados, utilizando a plataforma Azure e ferramentas como Data Factory e Databricks. Comecei na Ambev Tech como estagiário, em Novembro de 2019, onde aprendi a programar utilizando a linguagem Python, além de ter aprendido conceitos de Orientalção a Objetos, Banco de Dados e Design Patterns. Fui efetivado na Ambev Tech em Novembro de 2019 e, hoje em dia, estou tentando aprimorar meus conhecimentos em Python, além de estar estudando para me tornar Arquiteto de Dados e me aprofundando um pouco em Desenvolvimento Web e Mobile.
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/java-333333?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 
-### Contato
-Caso você queira me contatar, aqui estão as formas de conversar comigo:
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)](https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)
+**Utilidades**
 
-Sinta-se à vontade para visualizar meus repositórios no Github, ele é como um Portfólio para mim ^^.
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-## English
+**DevOps**
 
-### About Me
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-Hello, my name is Gabriel Rodrigo Parasky, I'm 17yo and I live in Santa Catarina, Brazil. I'm an IT technician, graduated on Cedup Hermann Hering and, currently, I'm working at Ambev Tech (Formerly HBSIS). I'm registered as Analyst Developer Jr, however I perform Data Analyst/Engineer functions, using the Azure's platform and tools like Data Factory and Databricks, for example. I've started at Ambev Tech as an intern, in November 2019, where I've learned programming in Python language, besides learning concepts about Object-oriented, Database and Design Patterns. I was hired in Ambev Tech on November 2020 and, nowadays, I'm trying to improve my knowledges in Python, besides being studying to became an Data Architect and deepening my knowing in Web and Mobile Development.
+<br/>
 
-### Contact
-If you want to contact me, here were the ways to chat with me:
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)](https://www.linkedin.com/in/gabriel-rodrigo-parasky-3a2a1518a/)
+## Onde me encontrar
 
-Feel free for viewing my repositories in Github, he is like an Portfolio to me ^^.
+[![Linkedin](https://img.shields.io/badge/-GRParasky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grparasky/)](https://www.linkedin.com/in/grparasky/)
+[![Gmail Badge](https://img.shields.io/badge/-grparasky@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grparasky@gmail.com)](mailto:grparasky@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/grparasky?label=follow&style=social)](https://github.com/GRParasky)
