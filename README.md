@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Parasky
 
-💻 Backend Developer (Java) with strong experience in system integrations  
+💻 Backend Developer (Python & Java) with strong experience in system integrations  
 🛒 Ecommerce specialist with ~3 years of hands-on experience (B2B & B2C)  
 🏥 Currently working with healthcare data and medical billing audit systems  
 🌍 Open to international remote opportunities  
